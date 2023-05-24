@@ -1,0 +1,26 @@
+body {
+    background-image: url('/IMG/gato.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 800px 700px;
+    
+}
+
+table {
+    border: 1px solid black;
+    border-spacing: 0px;
+    width: 50%;
+    text-align: center;
+    margin-top: 370px;
+    margin-left: 370px;
+}
+
+th {
+    border: 1px solid black;
+    background-color: white;
+}
+
+td {
+    border: 1px solid black;
+    background-color: wheat;
+}

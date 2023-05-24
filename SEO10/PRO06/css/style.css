@@ -1,0 +1,23 @@
+table {
+    border: rgb(244, 242, 194) 1px solid;
+    width: 700px;
+    text-align: center;
+    color: rgb(125, 18, 18);
+}
+
+td {
+    border: black 2px solid;
+    background-color: rgb(244, 242, 194);
+}
+
+#title {
+    background-color: seagreen;
+}
+
+.diferencias {
+    background-color: rgb(236, 199, 154);
+}
+
+.tamaño {
+    background-color: yellow;
+}

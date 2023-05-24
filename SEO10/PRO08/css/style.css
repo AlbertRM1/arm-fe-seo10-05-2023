@@ -1,0 +1,36 @@
+#div1, #div3 {
+    background-color: deepskyblue;
+    border: blue 2px solid;
+    width: 250px;
+    height: 127px;
+    background-image: url('../img/f03.png');
+    background-repeat: no-repeat;
+}
+
+#div2 {
+    background-color: deepskyblue;
+    border: red 2px solid;
+    width: 500px;
+    height: 350px;
+    background-image: url('../img/f03.png');
+    background-repeat: repeat-x;
+}
+
+.mario {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.suelo {
+    background-image: url('../img/f01.png');
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    background-size: contain;
+    background-position: top;
+}
+
+#prueba {
+    height: 335px;
+}
